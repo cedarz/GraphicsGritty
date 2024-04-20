@@ -23,6 +23,7 @@ Contents
    :name: sec-math
 
    math/math
+   math/comm
 
 .. toctree::
    :hidden:
