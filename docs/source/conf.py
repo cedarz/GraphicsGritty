@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'GraphicsGritty'
-copyright = '2024, Graziella'
-author = 'Graziella'
+copyright = '2024, Cedar'
+author = 'Cedar'
 
 release = '0.1'
 version = '0.1.0'
@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'myst_parser',
 ]
 
 intersphinx_mapping = {
