@@ -25,5 +25,10 @@ Contents
    math/math
 
 .. toctree::
+   .. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Usage
+   :name: sec-use
 
    usage
