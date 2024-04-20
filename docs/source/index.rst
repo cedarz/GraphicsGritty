@@ -17,6 +17,13 @@ Contents
 --------
 
 .. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Mathmatics
+   :name: sec-math
+
+   math/math
+
+.. toctree::
 
    usage
-   api
