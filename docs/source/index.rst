@@ -21,6 +21,7 @@ Contents
    :maxdepth: 1
    :caption: Mathmatics
    :name: sec-math
+   :numbered:
 
    math/transform
    math/comm
