@@ -22,8 +22,9 @@ Contents
    :caption: Mathmatics
    :name: sec-math
 
-   math/math
+   math/transform
    math/comm
+   math/vector
 
 .. toctree::
    :hidden:
