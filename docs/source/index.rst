@@ -29,6 +29,14 @@ Contents
 .. toctree::
    :hidden:
    :maxdepth: 1
+   :caption: Rendering
+   :name: sec-rendering
+   
+   Rendering/envmap
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
    :caption: Usage
    :name: sec-use
 
