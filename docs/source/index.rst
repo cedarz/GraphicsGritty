@@ -38,6 +38,14 @@ Contents
 .. toctree::
    :hidden:
    :maxdepth: 1
+   :caption: Books
+   :name: sec-book
+
+   Book/财报就像一本故事书.md
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
    :caption: Usage
    :name: sec-use
 

@@ -6,10 +6,7 @@ Mathmatics
 - [Rodrigues' rotation formula](https://en.wikipedia.org/wiki/Rodrigues%27_rotation_formula)
 - [vtkMath::RotateVectorByNormalizedQuaternion](https://github.com/Kitware/VTK/blob/master/Common/Core/vtkMath.cxx#L1802)
 
+![](img/700px-Orthogonal_decomposition_unit_vector_rodrigues_rotation_formula.svg.png)
 Chats
 -----
 
-- `Godot Contributors Chat <https://chat.godotengine.org/>`_
-- `Discord <https://discord.gg/4JBkykG>`_
-- `Matrix (IRC compatible) <https://matrix.to/#/#godotengine:matrix.org>`_
-- `IRC (#godotengine on Libera.Chat) <https://web.libera.chat/?channels=#godotengine>`
