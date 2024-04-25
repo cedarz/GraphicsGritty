@@ -3,10 +3,10 @@ Mathmatics
 
 .. toctree::
    :maxdepth: 1
-   :caption: Mathmatics
+   :caption: Basics
    :name: sec-math
    :numbered:
 
-   transform
+   Basics/transform
+   Basics/coordinate
    comm
-   coordinate
