@@ -14,12 +14,9 @@ Contents
    :hidden:
    :maxdepth: 1
    :caption: Mathmatics
-   :name: sec-math
-   :numbered:
+   :name: sec-math-toc
 
-   math/transform
-   math/comm
-   math/vector
+   math/index
 
 .. toctree::
    :hidden:
