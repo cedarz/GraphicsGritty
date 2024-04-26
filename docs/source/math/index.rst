@@ -9,4 +9,5 @@ Mathmatics
 
    Basics/transform
    Basics/coordinate
+   Basics/equation
    comm
