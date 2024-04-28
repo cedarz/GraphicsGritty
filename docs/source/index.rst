@@ -29,6 +29,15 @@ Contents
 .. toctree::
    :hidden:
    :maxdepth: 1
+   :caption: FrameWork
+   :name: sec-architecture
+   
+   FrameWork/ecs
+
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
    :caption: Books
    :name: sec-book
 

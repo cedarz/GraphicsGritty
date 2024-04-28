@@ -1,4 +1,4 @@
-Mathmatics
+数学
 -----------
 
 .. toctree::
