@@ -25,6 +25,7 @@ Contents
    :name: sec-rendering
    
    Rendering/envmap
+   Rendering/oit
 
 .. toctree::
    :hidden:
