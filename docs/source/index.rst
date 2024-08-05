@@ -24,6 +24,7 @@ Contents
    :caption: Rendering
    :name: sec-rendering
    
+   Rendering/reflectance
    Rendering/envmap
    Rendering/oit
 
