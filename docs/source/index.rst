@@ -27,6 +27,7 @@ Contents
    Rendering/reflectance
    Rendering/envmap
    Rendering/oit
+   Rendering/projects
 
 .. toctree::
    :hidden:
