@@ -4,6 +4,10 @@
 - SIGGRAPH'2001 [A Practical Model for Subsurface Light Transport](https://graphics.stanford.edu/papers/bssrdf/bssrdf.pdf)
   - [bssrdf 效果](http://graphics.ucsd.edu/~henrik/images/subsurf.html)
 - Normalized Diffusion [Approximate Reflectance Profiles for Efficient Subsurface Scattering](https://graphics.pixar.com/library/ApproxBSSRDF/)
+- Random walk SSS [Path Traced Subsurface Scattering using Anisotropic Phase Functions and Non-Exponential Free Flights](https://graphics.pixar.com/library/PathTracedSubsurface/)
+  - [brute-force-SSS](https://github.com/sakanaman/brute-force-SSS)
+  - [volpt](https://github.com/yumcyaWiz/volpt)
+  - [volppm](https://github.com/yumcyaWiz/volppm)
 
 ## RTR
 - SSSSS: [Screen-Space Subsurface Scattering](https://www.iryoku.com/sssss/)
