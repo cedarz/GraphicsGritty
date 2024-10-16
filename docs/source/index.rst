@@ -28,6 +28,7 @@ Contents
    Rendering/envmap
    Rendering/oit
    Rendering/projects
+   Rendering/subsurface
 
 .. toctree::
    :hidden:

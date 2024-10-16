@@ -2,6 +2,7 @@
 
 ## 理论
 - SIGGRAPH'2001 [A Practical Model for Subsurface Light Transport](https://graphics.stanford.edu/papers/bssrdf/bssrdf.pdf)
+  - [bssrdf 效果](http://graphics.ucsd.edu/~henrik/images/subsurf.html)
 - Normalized Diffusion [Approximate Reflectance Profiles for Efficient Subsurface Scattering](https://graphics.pixar.com/library/ApproxBSSRDF/)
 
 ## RTR
