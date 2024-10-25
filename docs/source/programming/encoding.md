@@ -11,5 +11,6 @@
 
 - [ANSI是什么编码？](https://www.cnblogs.com/malecrab/p/5300486.html)
 - [How to open an std::fstream (ofstream or ifstream) with a unicode filename?](https://stackoverflow.com/questions/821873/how-to-open-an-stdfstream-ofstream-or-ifstream-with-a-unicode-filename)
+- [Is wstring character is Unicode ? What happens during conversion?](https://stackoverflow.com/questions/27225196/is-wstring-character-is-unicode-what-happens-during-conversion)
 - [_wfopen(Encoding::ToWindowsExtendedPath(file).c_str(), trimmedMode.c_str())](https://github.com/Kitware/CMake/blob/master/Source/kwsys/SystemTools.cxx#L998)
 - [VTK SystemTools.cxx]()
