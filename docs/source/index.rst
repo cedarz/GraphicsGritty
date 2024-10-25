@@ -38,6 +38,15 @@ Contents
    
    FrameWork/ecs
 
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Programming
+   :name: sec-praogramming
+
+   programming/encoding
+
+   usage
 
 .. toctree::
    :hidden:
@@ -46,18 +55,6 @@ Contents
    :name: sec-book
 
    Book/财报就像一本故事书.md
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-   :caption: Usage
-   :name: sec-praogramming
-
-   programming/encoding
-
-   usage
-
-
 
 
 阅读的书籍
