@@ -51,7 +51,9 @@ Contents
    :hidden:
    :maxdepth: 1
    :caption: Usage
-   :name: sec-use
+   :name: sec-praogramming
+
+   programming/encoding
 
    usage
 
