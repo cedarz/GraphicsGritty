@@ -40,6 +40,11 @@ myst_enable_extensions = [
     "tasklist",
 ]
 
+latex_engine = 'xelatex'
+latex_elements = {
+    'preamble': r'\usepackage[utf8]{inputenc}'
+}
+
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
