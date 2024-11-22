@@ -23,4 +23,5 @@ Mathmathcs for Computer Graphics
    Basics/transform
    Basics/coordinate
    Basics/equation
+   Basics/geometry
    comm
