@@ -11,7 +11,7 @@ Mathmathcs for Computer Graphics
 - 3D Math Primer for Graphics and Game Development(中文版：3D数学基础：图形与游戏开发)
 - Geometric Tools for Computer Graphics(中文版：计算机图形学几何工具算法详解)
 - Visualizing Quaternions(The Morgan Kaufmann Series in Interactive 3D Technology)
-
+- Mathematics for Computer Graphics Fifth Edition
 
 
 .. toctree::
